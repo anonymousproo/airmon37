@@ -39,5 +39,10 @@ Wifite was designed for use with pentesting distributions of Linux, such as Kali
 Wifite must be run as root. This is required by the suite of programs it uses. Running downloaded scripts as root is a bad idea. I recommend using the Kali Linux bootable Live CD, a bootable USB stick (for persistent), or a virtual machine. Note that Virtual Machines cannot directly access hardware so a wireless USB dongle would be required.
 Wifite assumes that you have a wireless card and the appropriate drivers that are patched for injection and promiscuous/monitor mode.
 # and more
-
+>Installation
+>>git clone https://github.com/anonymousproo/airmon37.git
+>>Or you can download the zip file
+>>cd IP-Tracker
+>>chmod +x IP-Tracker.py
+>>python IP-Tracker.py
 
