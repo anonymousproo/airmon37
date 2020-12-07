@@ -1,22 +1,22 @@
 # main menu
 +=========================================================================================================================+
-@	 {1} Aircrack-ng								{17} kalibrate-rtl	       @		
-@	 {2} Asleap									{18} KillerBee		       @
-@	 {3} Bluelog			{#} Coded By Anonymous Pro YTB		        {19} Kismet		       @
-@	 {4} BlueMaho									{20} mdk3		       @
-@	 {5} Bluepot			+============================+			{21} mfcuk		       @
-@	 {6} BlueRanger			|			    |			{22} mfoc		       @
-@	 {7} Bluesnarfer		|	{31} Wifitap	    |			{23} mfterm		       @
-@	 {8} Bully			|			    |			{24} Multimon-NG	       @	
-@	 {9} coWPAtty			+============================+			{25} PixieWPS		       @
-@	{10} crackle									{26} Reaver  		       @
-@	{11} eapmd5pass									{27} redfang          	       @
-@	{12} Fern Wifi Cracker		{#} Coded By Anonymous Pro YTB			{28} RTLSDR Scanner	       @
-@	{13} Ghost Phisher								{29} Spooftooph		       @
-@	{14} GISKismet									{30} Wifi Honey		       @		
-@	{16} gr-scan									{32} Wifite   		       @
-@														       @			
-@				{0} Install all Wireless Attacks tools						       @
+@	 {1} Aircrack-ng								                                                                {17} kalibrate-rtl	    @		
+@	 {2} Asleap									                                                                    {18} KillerBee		      @
+@	 {3} Bluelog			                  {#} Coded By Anonymous Pro YTB		                          {19} Kismet		          @
+@	 {4} BlueMaho								                                                                  	{20} mdk3		            @
+@	 {5} Bluepot			                   +============================+		                          {21} mfcuk		          @
+@	 {6} BlueRanger		                          	|			    |			                                  {22} mfoc		            @
+@	 {7} Bluesnarfer	                        	|	{31} Wifitap |		                                {23} mfterm		          @
+@	 {8} Bully			                              |			    |		                                    {24} Multimon-NG	      @	
+@	 {9} coWPAtty		                    	+============================+			                      {25} PixieWPS		        @
+@	{10} crackle									                                                                  {26} Reaver  		        @
+@	{11} eapmd5pass									                                                                {27} redfang          	@
+@	{12} Fern Wifi Cracker		           {#} Coded By Anonymous Pro YTB		                        	{28} RTLSDR Scanner	    @
+@	{13} Ghost Phisher						                                              	                	{29} Spooftooph		      @
+@	{14} GISKismet									                                                                {30} Wifi Honey		      @		
+@	{16} gr-scan								                                                                  	{32} Wifite   		      @
+@														                                                                                              @			
+@				{0} Install all Wireless Attacks tools						                                                                @
 +=========================================================================================================================+				 
 
 
